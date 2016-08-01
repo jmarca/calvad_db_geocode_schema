@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=calvad_db_geocode_schema
+%uri=git@activimetrics.com/a/jmarca/calvad_db_geocode_schema
+
+geocode_schema 2016-03-16T16:30:54Z James E. Marca <james@activimetrics.com> # add schema for geocoding
