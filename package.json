@@ -1,0 +1,26 @@
+{
+  "name": "calvad_db_geocode_schema",
+  "version": "1.0.0",
+  "description": "Sqitch code to create a geocode schema",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "pgtap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarca/calvad_db_geocode_schema.git"
+  },
+  "keywords": [
+    "CalVAD",
+    "sqitch"
+  ],
+  "author": "James E Marca",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jmarca/calvad_db_geocode_schema/issues"
+  },
+  "homepage": "https://github.com/jmarca/calvad_db_geocode_schema#readme"
+}
